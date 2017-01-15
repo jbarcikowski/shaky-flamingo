@@ -1,9 +1,9 @@
 # shaky-flamingo
-Setting GitHub up for my personal purposes. 
 
 Dear all,
 
-This project aims to make the world a happy place. It secret code-name makes you move. 
+Welcome to shaky-flamingo. This project aims to make the world a happy place, its snazzy code-name makes you move your hips and I've set this up to achive my personal goals. 
 
-Cheers,
+Enjoy,
+
 J. 
